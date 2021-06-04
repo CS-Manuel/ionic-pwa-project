@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Pen",
+      "price": 12.9
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "price": 12.9
+    }
+  
+  ],
+
+  "clients": [
+    {
+      "id": 1,
+      "name": "Hill",
+      "age": 12
+    },
+    {
+      "id": 2,
+      "name": "Manuel",
+      "age": 12
+    }
+  
+  ]
+}
